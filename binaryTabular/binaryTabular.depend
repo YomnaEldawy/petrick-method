@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1494849425 source:/home/yomna/Desktop/myworkspace/binaryTabular/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<algorithm>
+	<vector>
+	<queue>
+
